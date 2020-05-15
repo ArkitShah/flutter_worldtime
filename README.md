@@ -2,7 +2,9 @@
 
 A Flutter application.
 
-
+![picture](assets/Screenshot_1.jpg)
+![picture](assets/Screenshot_2.jpg)
+![picture](assets/Screenshot_3.jpg)
 
 ## Getting Started
 
