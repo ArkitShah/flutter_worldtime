@@ -2,7 +2,7 @@
 
 A Flutter application.
 
-![picture](assets/Screenshot_1.jpg=250*250)
+![picture](assets/Screenshot_1.jpg)
 ![picture](assets/Screenshot_2.jpg)
 ![picture](assets/Screenshot_3.jpg)
 
